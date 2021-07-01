@@ -8,7 +8,7 @@ Random forest algorithm can then be applied to a dataset having such features th
 
 DATASET: Dataset used contains phishing URL and Non Phishing URL with label which represents whether corresponding URL is phishing URL or not.
 
-<img src="https://github.com/anubhavmishra123/Phishing-website-detection-ML-flask/blob/main/dataset.png" width="400" height="200">
+<img src="https://github.com/anubhavmishra123/Phishing-website-detection-ML-flask/blob/main/dataset.png" width="500" height="300">
 
 Feature Extraction: Features extracted are Number of dots, presence of hyphen, length of URL, presence of @, Number of subdirectory, Number of subdomain, length of domain, Number of queries, presence of IP, presence of suspicious TDL, presence of suspicious domain etc.
 
@@ -16,7 +16,7 @@ Feature Extraction: Features extracted are Number of dots, presence of hyphen, l
 
 Model Accuracy:
 
-<img src="https://github.com/anubhavmishra123/Phishing-website-detection-ML-flask/blob/main/models.png" width="400" height="200">
+<img src="https://github.com/anubhavmishra123/Phishing-website-detection-ML-flask/blob/main/models.png" width="400" height="100">
 
 Front End created using FLASK API and html
 
